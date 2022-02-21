@@ -13,7 +13,7 @@ My current skills include the folowing;
 - Python
 - Web server administration (Nginx and Apache)
 - Databases (MySQL and Postgres)
-
+- GCP
 
 
 <!--
