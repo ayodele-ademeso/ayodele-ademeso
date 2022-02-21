@@ -14,7 +14,7 @@ My current skills include the folowing;
 - Web server administration (Nginx and Apache)
 - Databases (MySQL and Postgres)
 - AWS
-
+- GCP
 
 
 <!--
