@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋, I am Ayodele! 
+
+Currently learning cloud/DevOps concepts and looking for entry level opportunities in similar roles
+
+Documenting my learnings both on Github and [Hashnode]https://ayodelespencer.hashnode.dev :closed_book:
 
 <!--
 **ayodele-ademeso/ayodele-ademeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
