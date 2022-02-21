@@ -1,8 +1,20 @@
 ### Hi there 👋, I am Ayodele! 
 
-Currently learning cloud/DevOps concepts and looking for entry level opportunities in similar roles
+Currently learning Cloud/DevOps concepts and looking for entry level opportunities in similar roles
 
 Documenting my learnings both on Github and [Hashnode](https://ayodelespencer.hashnode.dev) :closed_book:
+
+### Skills
+
+My current skills include the folowing;
+
+- Linux
+- Bash scripting
+- Python
+- Web server administration (Nginx and Apache)
+- Databases (MySQL and Postgres)
+
+
 
 <!--
 **ayodele-ademeso/ayodele-ademeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
