@@ -1,12 +1,10 @@
 ### Hi there 👋, I am Ayodele! 
 
-Currently learning Cloud/DevOps concepts and looking for entry level opportunities in similar roles
-
-Documenting my learnings both on Github and [Hashnode](https://ayodelespencer.hashnode.dev) :closed_book:
+Blog: [Hashnode](https://ayodelespencer.hashnode.dev) :closed_book:
 
 ### Skills
 
-My current skills include the folowing;
+Current skills include the folowing;
 
 - Linux
 - Bash scripting
@@ -14,6 +12,7 @@ My current skills include the folowing;
 - Web server administration (Nginx and Apache)
 - Databases (MySQL and Postgres)
 - AWS
+- Terraform
 
 
 <!--
