@@ -8,11 +8,12 @@ Current skills include the folowing;
 
 - Linux
 - Bash scripting
-- Python
+- Python (scripting)
 - Web server administration (Nginx and Apache)
 - Databases (MySQL and Postgres)
 - AWS
 - Terraform
+- Docker
 
 
 <!--
