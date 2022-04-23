@@ -1,6 +1,7 @@
 ### Hi there 👋, I am Ayodele! 
+Cloud|DevOps
 
-Blog: [Hashnode](https://ayodelespencer.hashnode.dev) :closed_book:
+Blog: [Hashnode](https://blog.ayodele.cloud) :closed_book:
 
 ### Skills
 
