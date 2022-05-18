@@ -5,8 +5,6 @@ Blog: [Hashnode](https://blog.ayodele.cloud) :closed_book:
 
 ### Skills
 
-Current skills include the folowing;
-
 - Linux
 - Bash scripting
 - Python (scripting)
@@ -15,7 +13,7 @@ Current skills include the folowing;
 - AWS
 - Terraform
 - Docker
-
+- Kubernetes
 
 <!--
 **ayodele-ademeso/ayodele-ademeso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
