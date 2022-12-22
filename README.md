@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Ayodele! 
-Cloud|DevOps
+## Cloud|DevOps Engineer
 
-Blog: [Hashnode](https://blog.ayodele.cloud) :closed_book:
+Website: [Website](https://www.ayodele.cloud) 🌐
 
 ### Skills
 
