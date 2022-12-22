@@ -1,7 +1,8 @@
 ### Hi there 👋, I am Ayodele! 
 ## Cloud|DevOps Engineer
 
-Website: [Website](https://www.ayodele.cloud) 🌐
+Website: [ayodele.cloud](https://www.ayodele.cloud) 🌐
+Location: 0.0.0.0/0
 
 ### Skills
 
