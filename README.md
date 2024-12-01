@@ -1,18 +1,18 @@
-### Hi there 👋, I am Ayodele! 
+### Hi there 👋
 ## Cloud|DevOps Engineer
 
 Website: [ayodele.cloud](https://www.ayodele.cloud) 🌐
 
-Location: 0.0.0.0/0
+Location: United Kingdom :uk:
 
 ### Skills
 
 - Linux
 - Bash scripting
-- Python (scripting)
+- Python
 - Web server administration (Nginx and Apache)
-- Databases (MySQL and Postgres)
-- AWS
+- Databases (MySQL, Postgres, MongoDB)
+- Cloud platforms: AWS, Azure
 - Terraform
 - Docker
 - Kubernetes
