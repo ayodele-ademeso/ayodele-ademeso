@@ -3,7 +3,7 @@
 
 Website: [ayodele.cloud](https://www.ayodele.cloud) 🌐
 
-Location: United Kingdom :uk:
+Location: United Kingdom 🇬🇧
 
 ### Skills
 
